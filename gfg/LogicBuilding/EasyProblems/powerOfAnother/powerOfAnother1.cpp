@@ -1,3 +1,5 @@
+#Binary method
+
 class Solution {
   public:
     int isPowerOfAnother(int x, long int y) {
